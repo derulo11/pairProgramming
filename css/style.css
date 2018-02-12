@@ -1,0 +1,32 @@
+/* CSS: Cascading Style Sheets */
+h2 {
+  font-size: 30pt;
+  font-style: oblique;
+  font-weight: bolder;
+
+}
+
+#Introduction {
+  font-family: fantasy;
+  font-weight: 400;
+}
+
+#Links {
+  font-size: : 20pt;
+  font-style: italic;
+  font-family: fantasy ;
+  font-weight: bolder;
+}
+
+a:hover{
+  font-size: 30pt;
+  font-style: italic;
+}
+
+body {
+  background-color: #FFF633;
+}
+
+#images {
+  float: left;
+}
