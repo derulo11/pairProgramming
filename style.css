@@ -1,0 +1,23 @@
+/* CSS: Cascading Style Sheets */
+body {
+  background-color: #FFF633;
+}
+
+#article {
+  width: 1000px;
+  border-radius: 20px;
+}
+
+#porkpancit {
+  display: block;
+}
+
+#porkpancit iframe {
+  width: 1000px;
+  height: 500px;
+}
+
+#footer {
+  width: 800px;
+  height: auto;
+}
